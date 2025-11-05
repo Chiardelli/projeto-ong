@@ -19,15 +19,8 @@ O design do site é focado em ser **inspirador, moderno e fácil de usar**, ince
 
 Para visualizar o projeto, basta abrir os arquivos `.html` em seu navegador de preferência.
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-ong.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd projeto-ong
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
+1. Navegue até o diretório do projeto.
+2. Abra o arquivo `index.html` no seu navegador.
 
 Não há dependências de build ou pacotes a serem instalados para este projeto, pois ele é construído com HTML, CSS e JavaScript puros.
 
@@ -47,24 +40,10 @@ O código está organizado da seguinte forma:
 │   └── 🎨 cadastro.css       # Estilos da página de cadastro
 │
 ├── 📁 js/
-│   └── 📜 script.js          # Scripts globais (se aplicável)
+│   └── 📜 script.js          # Scripts para máscaras de input (CPF, Telefone, CEP)
 │
 └── 📁 imagens/
-    ├── 🖼️ hero.png           # Imagens utilizadas no site
-    ├── 🖼️ projeto1.png
-    └── 🖼️ equipe1.png
+    ├── 🖼️ projeto-alimentacao.jpg # Imagens dos projetos
+    ├── 🖼️ projeto-educacao.jpg
+    └── 🖼️ projeto-meio-ambiente.jpg
 ```
-
-## 🤝 Contribuições
-
-Contribuições são sempre bem-vindas! Se você tem ideias para melhorar o projeto, siga os passos abaixo:
-
-1. Faça um "fork" do projeto.
-2. Crie uma nova "branch" para sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3. Faça o "commit" de suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para a "branch" original (`git push origin feature/nova-funcionalidade`).
-5. Abra um "Pull Request".
-
-## 📝 Licença
-
-Este projeto é fictício e para fins educacionais. Sinta-se à vontade para usá-lo como referência ou para estudo.
